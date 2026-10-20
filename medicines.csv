@@ -1,0 +1,31 @@
+medicine_id,name,price,stock,minimum_stock
+M01,Paracetamol,20.00,24,10
+M02,Crocin,30.00,0,10
+M03,Vitamin C,40.00,25,5
+M04,Cetirizine,15.00,20,5
+M05,Ibuprofen,25.00,35,10
+M06,Amoxicillin,60.00,18,8
+M07,Azithromycin,45.00,22,8
+M08,Omeprazole,35.00,28,10
+M09,Pantoprazole,40.00,15,5
+M10,ORS Sachet,20.00,50,15
+M11,Antacid Tablets,25.00,32,10
+M12,Cough Syrup,85.00,12,5
+M13,Antiseptic Cream,55.00,16,5
+M14,Calcium Tablets,70.00,24,8
+M15,Iron Tablets,50.00,19,5
+M16,Vitamin D3,90.00,14,5
+M17,Multivitamin,120.00,26,10
+M18,Diclofenac Gel,75.00,11,5
+M19,Loratadine,28.00,30,10
+M20,Metformin,35.00,40,10
+M21,Amlodipine,25.00,17,5
+M22,Losartan,45.00,23,8
+M23,Atorvastatin,65.00,13,5
+M24,Saline Nasal Drops,40.00,21,5
+M25,Eye Lubricant Drops,80.00,9,5
+M26,Hand Sanitizer,60.00,34,10
+M27,Bandage Roll,20.00,45,10
+M28,Cotton Pack,30.00,27,8
+M29,Thermometer,150.00,8,3
+M30,Adhesive Bandages,25.00,38,10

@@ -1,0 +1,7 @@
+bill_id,customer_id,customer_name,medicine_id,medicine_name,quantity,price,total,date_time
+BILL-1001,CUST-101,PIYUSH,M01,Paracetamol,10,20.0,200.0,2026-10-06 14:33:27
+BILL-1001,CUST-101,PIYUSH,M02,Crocin,5,30.0,150.0,2026-10-06 14:33:27
+BILL-1002,CUST-102,MAYANK,M01,Paracetamol,10,20.0,200.0,2026-10-06 14:59:10
+BILL-1002,CUST-102,MAYANK,M02,Crocin,3,30.0,90.0,2026-10-06 14:59:10
+BILL-1003,CUST-103,rahul,M01,Paracetamol,4,20.00,80.00,2026-10-19 04:37:13
+BILL-1004,CUST-105,arihant,M01,Paracetamol,2,20.00,40.00,2026-10-19 04:52:32
